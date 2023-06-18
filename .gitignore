@@ -1,0 +1,14 @@
+
+# ignore tất cả file trong node_modules trừ file index.html
+node_modules/**
+!node_modules/index.html
+
+#ignore tất cả file có tên là logs
+logs*
+
+#ignore tất cả file js
+dist/**.js
+
+# ignore file riêng lẻ
+
+.prettierrc
