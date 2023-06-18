@@ -12,6 +12,7 @@ Tiếp theo là ul, li
 - Đây cx là thẻ li
 
 [Đây là thẻ a](google.com)
+
 ![Đây là hình ảnh](./Image_created_with_a_mobile_phone.png)
 
 **Đây là in đậm**
