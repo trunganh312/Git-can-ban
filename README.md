@@ -50,3 +50,5 @@ git log
 | --------- | --------- | --------- |
 | Content 1 | Content 2 | Content 3 |
 |           |           |           |
+
+Handle B đã edit
